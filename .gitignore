@@ -1,0 +1,12 @@
+*.pyc
+*.db
+log*
+DB/
+venv/
+todo
+build/
+dist/
+data_folder/
+*egg-info*
+tests/
+.idea/
